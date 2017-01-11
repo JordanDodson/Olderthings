@@ -1,2 +1,2 @@
 # gh-pages
-Sampls Website
+Sample Website
