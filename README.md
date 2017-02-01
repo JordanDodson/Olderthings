@@ -36,3 +36,10 @@ Another turte:
 
 [pic]: http://cliparts.co/cliparts/kT8/ozK/kT8ozK8xc.jpg
 
+# Table Time
+
+|Name     |Age      |Fave color|
+|---------|---------|----------|
+|Jane     |18       |Blue      |
+|Marcus   |22       |Green     |
+|Jeff     |23       |Red       |
