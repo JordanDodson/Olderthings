@@ -8,12 +8,13 @@ I like to *hike* and **play video games** with my friends. My other hobbies incl
 
 Favorite foods
 1. Cookies
+
 2. Cake
   + only chocolate cake
 3. grapes
   3. only purple ones
   
-[I love to use Reddit](www.reddit.com)
+[I love to use Reddit](https://www.reddit.com/)
 
 [Look at another website][other website]
 
@@ -25,4 +26,12 @@ I love [Youtubers]
 [other website]: www.google.com
 [1]: www.youtube.com
 [Youtubers]: https://www.youtube.com/user/jacksepticeye
+
+A turtle:
+![alt text](http://cliparts.co/cliparts/6Tr/6KB/6Tr6KBA7c.png)
+
+Another turte:
+![alt text][pic]
+
+[pic]: http://cliparts.co/cliparts/kT8/ozK/kT8ozK8xc.jpg
 
