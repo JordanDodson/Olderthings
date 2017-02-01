@@ -7,6 +7,7 @@ Sample Website
 I like to *hike* and **play video games** with my friends. My other hobbies include **_coding_** and ~~doing homework.~~
 
 Favorite foods
+
 1. Cookies
 
 2. Cake
